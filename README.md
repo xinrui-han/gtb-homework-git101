@@ -1,5 +1,5 @@
 # Welcome to Rui's Org
-Hi, this is me, Panda.
+Hi, this is me, Rui.
 
 You see this avatar, you know it is me.
 
